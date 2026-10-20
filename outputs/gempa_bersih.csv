@@ -1,0 +1,29 @@
+sumber,waktu_utc,tanggal,jam_wib,lintang,bujur,magnitude,kedalaman_km,wilayah,potensi_tsunami,dirasakan,kategori_kedalaman,provinsi
+gempaterkini,2026-09-19T04:18:36+0000,19 Sep 2026,11:18:36 WIB,-1.6,138.88,5.1,10.0,33 km TimurLaut SARMI-PAPUA,False,,dangkal,Papua
+gempaterkini,2026-09-21T01:41:37+0000,21 Sep 2026,08:41:37 WIB,-8.33,120.59,5.3,10.0,34 km TimurLaut RUTENG-MANGGARAI-NTT,False,,dangkal,Nusa Tenggara Timur
+gempaterkini,2026-09-21T07:31:07+0000,21 Sep 2026,14:31:07 WIB,-0.7,122.45,5.3,10.0,26 km BaratDaya PULAUPUAH-SULTENG,False,,dangkal,Sulawesi Tengah
+gempaterkini,2026-09-21T23:48:13+0000,22 Sep 2026,06:48:13 WIB,4.74,125.3,5.2,10.0,127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,False,,dangkal,Sulawesi Utara
+gempaterkini,2026-10-01T14:20:00+0000,01 Okt 2026,21:20:00 WIB,-7.07,120.8,5.1,10.0,111 km Tenggara SELAYAR-SULSEL,False,,dangkal,Sulawesi Selatan
+gempaterkini,2026-10-03T22:55:52+0000,04 Okt 2026,05:55:52 WIB,-9.7,118.92,6.1,10.0,14 km BaratDaya KODI-SUMBABARATDAYA-NTT,False,,dangkal,Nusa Tenggara Timur
+gempaterkini,2026-10-03T23:37:31+0000,04 Okt 2026,06:37:31 WIB,4.56,94.97,5.9,26.0,68 km BaratDaya CALANG-ACEHJAYA,False,,dangkal,Aceh
+gempaterkini,2026-10-06T13:11:23+0000,06 Okt 2026,20:11:23 WIB,4.94,118.77,5.3,10.0,219 km TimurLaut TARAKAN-KALTARA,False,,dangkal,Kalimantan Utara
+gempaterkini,2026-10-06T20:15:26+0000,07 Okt 2026,03:15:26 WIB,-8.77,116.14,5.2,92.0,9 km Tenggara LOMBOKBARAT-NTB,False,,menengah,Nusa Tenggara Barat
+gempaterkini,2026-10-08T08:07:56+0000,08 Okt 2026,15:07:56 WIB,5.66,125.19,5.8,10.0,230 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT,False,,dangkal,Sulawesi Utara
+gempaterkini,2026-10-09T05:11:04+0000,09 Okt 2026,12:11:04 WIB,0.77,126.03,5.1,10.0,125 km Tenggara BITUNG-SULUT,False,,dangkal,Sulawesi Utara
+gempaterkini,2026-10-11T03:30:20+0000,11 Okt 2026,10:30:20 WIB,-8.73,106.47,5.7,10.0,193 km BaratDaya KAB-SUKABUMI-JABAR,False,,dangkal,Jawa Barat
+gempaterkini,2026-10-11T21:34:53+0000,12 Okt 2026,04:34:53 WIB,0.64,121.75,5.7,76.0,29 km BaratLaut POHUWATO-GORONTALO,False,,menengah,Gorontalo
+gempadirasakan,2026-10-15T15:32:38+0000,15 Okt 2026,22:32:38 WIB,-7.22,107.71,2.7,4.0,Pusat gempa berada di darat 21 km barat Kab. Garut,False,"III Darajat, III Pasirwangi",dangkal,Tidak diketahui
+gempadirasakan,2026-10-16T03:21:55+0000,16 Okt 2026,10:21:55 WIB,-6.69,106.63,2.5,9.0,Pusat gempa berada di darat 21 km Barat Daya Kota Bogor,False,II Kabandungan,dangkal,Tidak diketahui
+gempadirasakan,2026-10-16T14:22:04+0000,16 Okt 2026,21:22:04 WIB,-6.76,106.63,2.3,18.0,Pusat gempa berada di darat 26 km Barat Daya Kota Bogor,False,II Leuwiliang,dangkal,Tidak diketahui
+gempadirasakan,2026-10-17T08:20:52+0000,17 Okt 2026,15:20:52 WIB,-0.75,131.38,4.2,3.0,Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong,False,III Sorong,dangkal,Tidak diketahui
+gempadirasakan,2026-10-17T12:46:17+0000,17 Okt 2026,19:46:17 WIB,-9.52,118.54,4.6,10.0,Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA,False,"III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa, III Sumba Barat",dangkal,Tidak diketahui
+gempadirasakan,2026-10-17T15:45:27+0000,17 Okt 2026,22:45:27 WIB,-1.98,121.33,2.6,5.0,Pusat gempa berada di darat 39 km selatan Morowali Utara,False,II - III Kolonodale,dangkal,Tidak diketahui
+gempaterkini,2026-10-18T08:00:08+0000,18 Okt 2026,15:00:08 WIB,-8.09,120.26,5.3,10.0,60 km TimurLaut LABUANBAJO-NTT,False,,dangkal,Nusa Tenggara Timur
+gempadirasakan,2026-10-18T08:02:46+0000,18 Okt 2026,15:02:46 WIB,-8.14,120.29,4.1,5.0,Pusat gempa berada di laut 56 km utara Ruteng,False,II-III Kab. Manggarai,dangkal,Tidak diketahui
+gempadirasakan,2026-10-19T09:45:57+0000,19 Okt 2026,16:45:57 WIB,-8.12,120.05,4.8,19.0,Pusat gempa berada di laut 45 km timur laut Labuan Bajo,False,I-II Kab. Manggarai,dangkal,Tidak diketahui
+gempadirasakan,2026-10-19T10:10:56+0000,19 Okt 2026,17:10:56 WIB,-7.97,120.06,4.7,5.0,Pusat gempa berada di laut 61 km utara Labuan Bajo,False,II Kab. Manggarai,dangkal,Tidak diketahui
+gempadirasakan,2026-10-19T12:06:02+0000,19 Okt 2026,19:06:02 WIB,-7.99,120.09,4.5,6.0,Pusat gempa berada di laut 60 km Utara Labuanbajo,False,II Kab. Manggarai,dangkal,Tidak diketahui
+gempadirasakan,2026-10-19T13:46:11+0000,19 Okt 2026,20:46:11 WIB,4.16,97.51,4.2,5.0,Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues,False,"III Kab. Gayo Lues, II Aceh Timur",dangkal,Aceh
+gempadirasakan,2026-10-20T09:56:38+0000,20 Okt 2026,16:56:38 WIB,-10.19,123.71,3.4,4.0,Pusat gempa berada di darat 30km Barat Daya Kab. Kupang,False,"III Kab. Kupang, III Kota Kupang",dangkal,Tidak diketahui
+gempadirasakan,2026-10-20T11:28:11+0000,20 Okt 2026,18:28:11 WIB,-8.37,116.99,3.7,15.0,Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi,False,III Kab. Sumbawa,dangkal,Tidak diketahui
+gempaterkini,2026-10-20T16:29:35+0000,20 Okt 2026,23:29:35 WIB,3.79,95.72,5.4,74.0,59 km BaratDaya MEULABOH-ACEHBARAT,False,,menengah,Aceh
