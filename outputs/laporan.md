@@ -1,9 +1,9 @@
 # Laporan Gempa Indonesia
 
-Data terbuka BMKG, diambil 2026-10-20 18:40 UTC. Semua angka di bawah dihasilkan pipeline,
+Data terbuka BMKG, diambil 2026-10-20 18:50 UTC. Semua angka di bawah dihasilkan pipeline,
 tidak ada nilai yang ditulis manual.
 
-**Data diambil:** 2026-10-20 18:40 UTC  
+**Data diambil:** 2026-10-20 18:50 UTC  
 **Gempa dalam katalog:** 28 kejadian (15 dari katalog M5+, 13 dirasakan)  
 **Magnitudo:** rata-rata 4,64, terbesar M6,1  
 **Kedalaman median:** 10,0 km (89,3% gempa dangkal)  
